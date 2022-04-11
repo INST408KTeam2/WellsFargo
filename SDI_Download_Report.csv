@@ -1,0 +1,83 @@
+"FDIC - Statistics on Depository Institutions Report"
+
+"","","","","All Institutions - National","","","All Commercial Banks - National","","","All Savings Institutions - National",
+"","","","","12/31/2021","","","12/31/2021","","","12/31/2021",
+"","","","","$ in 000's","","","$ in 000's","","","$ in 000's",
+"","","","","Total (Sum)","","","Total (Sum)","","","Total (Sum)",
+"1","Number of institutions reporting","","instcnt","4839","","instcnt","4231","","instcnt","608",
+"Assets and Liabilities","","",""," ","",""," ","",""," ",
+"2","Total employees (full-time equivalent)","","numemp","2,069,049","","numemp","1,948,989","","numemp","120,060",
+"3","Total assets","","asset","23,719,316,218","","asset","22,195,228,727","","asset","1,524,087,491",
+"4","Cash and due from depository institutions","","chbal","3,559,097,041","","chbal","3,420,406,228","","chbal","138,690,813",
+"5","Interest-bearing balances","","chbali","3,322,499,020","","chbali","3,193,105,179","","chbali","129,393,841",
+"6","Securities","","sc","6,245,881,186","","sc","5,587,088,039","","sc","658,793,147",
+"7","Federal funds sold and reverse repurchase agreements","","frepo","599,191,963","","frepo","596,669,329","","frepo","2,522,634",
+"8","Net loans and leases","","lnlsnet","11,068,661,733","","lnlsnet","10,396,591,753","","lnlsnet","672,069,980",
+"9","Allowance for loan and lease losses **","","lnatres","178,212,495","","lnatres","164,596,788","","lnatres","13,615,707",
+"10","Trading account assets","","trade","723,761,925","","trade","723,337,701","","trade","424,224",
+"11","Bank premises and fixed assets","","bkprem","186,849,672","","bkprem","178,641,143","","bkprem","8,208,529",
+"12","Other real estate owned","","ore","2,960,596","","ore","2,788,273","","ore","172,323",
+"13","Goodwill and other intangibles","","intan","404,362,990","","intan","393,880,959","","intan","10,482,031",
+"14","All other assets","","idoa","928,549,112","","idoa","895,825,302","","idoa","32,723,810",
+"15","Total liabilities and capital","","liabeq","23,719,316,218","","liabeq","22,195,228,727","","liabeq","1,524,087,491",
+"16","Total liabilities","","liab","21,359,746,107","","liab","19,982,842,856","","liab","1,376,903,251",
+"17","Total deposits","","dep","19,701,591,772","","dep","18,410,301,127","","dep","1,291,290,645",
+"18","Interest-bearing deposits","","depi","14,082,942,865","","depi","12,914,095,938","","depi","1,168,846,927",
+"19","Deposits held in domestic offices","","depdom","18,189,214,132","","depdom","16,898,323,035","","depdom","1,290,891,097",
+"20","% insured","","iddepinr","47.14%","","iddepinr","45.29%","","iddepinr","74.82%",
+"21","Federal funds purchased & repurchase agreements","","frepp","260,279,923","","frepp","256,019,580","","frepp","4,260,343",
+"22","Trading liabilities","","tradel","243,762,436","","tradel","243,632,206","","tradel","130,230",
+"23","Other borrowed funds","","idobrmtg","588,819,012","","idobrmtg","525,126,302","","idobrmtg","63,692,710",
+"24","Subordinated debt","","subnd","66,395,483","","subnd","66,390,016","","subnd","5,467",
+"25","All other liabilities","","idoliab","498,897,481","","idoliab","481,373,625","","idoliab","17,523,856",
+"26","Total equity capital","","eqtot","2,359,570,111","","eqtot","2,212,385,871","","eqtot","147,184,240",
+"27","Total bank equity capital","","eq","2,357,373,391","","eq","2,210,216,369","","eq","147,157,022",
+"28","Perpetual preferred stock","","eqpp","12,553,109","","eqpp","12,201,112","","eqpp","351,997",
+"29","Common stock","","eqcs","41,445,303","","eqcs","40,559,463","","eqcs","885,840",
+"30","Surplus","","eqsur","1,397,740,816","","eqsur","1,330,029,358","","eqsur","67,711,458",
+"31","Undivided profits","","equptot","905,634,163","","equptot","827,426,436","","equptot","78,207,727",
+"32","Noncontrolling interests in consolidated subsidiaries","","eqconsub","2,196,720","","eqconsub","2,169,502","","eqconsub","27,218",
+"     Memoranda:"
+"33","Noncurrent loans and leases","","nclnls","99,660,383","","nclnls","85,535,456","","nclnls","14,124,927",
+"34","Noncurrent loans that are wholly or partially guaranteed by the U.S. government","","ncgtypar","28,653,491","","ncgtypar","18,618,978","","ncgtypar","10,034,513",
+"35","Income earned, not collected on loans","","oaienc","54,014,259","","oaienc","50,578,357","","oaienc","3,435,902",
+"36","Earning assets","","ernast","21,767,607,234","","ernast","20,304,586,774","","ernast","1,463,020,460",
+"37","Long-term assets (5+ years)","","asstlt","7,481,972,301","","asstlt","6,676,730,274","","asstlt","805,242,027",
+"38","Average Assets, year-to-date","","asset5","22,739,484,172","","asset5","21,301,398,982","","asset5","1,438,085,190",
+"39","Average Assets, quarterly","","asset2","23,450,417,373","","asset2","21,958,413,796","","asset2","1,492,003,577",
+"40","Total risk weighted assets","","rwajt","13,700,662,754","","rwajt","13,044,081,500","","rwajt","656,581,254",
+"41","Adjusted average assets for leverage capital purposes","","avassetj","23,208,264,668","","avassetj","21,727,631,886","","avassetj","1,480,632,782",
+"42","Life insurance assets","","oalifins","197,641,193","","oalifins","187,031,912","","oalifins","10,609,281",
+"43","General account life insurance assets","","oalifgen","101,453,797","","oalifgen","93,251,457","","oalifgen","8,202,340",
+"44","Separate account life insurance assets","","oalifsep","76,589,246","","oalifsep","75,626,396","","oalifsep","962,850",
+"45","Hybrid life insurance assets","","oalifhyb","19,598,150","","oalifhyb","18,154,059","","oalifhyb","1,444,091",
+"46","Volatile liabilities","","voliab","2,548,246,372","","voliab","2,479,882,323","","voliab","68,364,049",
+"47","Insider loans","","lnexamt","37,229,615","","lnexamt","35,437,737","","lnexamt","1,791,878",
+"48","FHLB advances","","othbfhlb","188,536,538","","othbfhlb","132,691,509","","othbfhlb","55,845,029",
+"49","Loans and leases held for sale","","lnlssale","220,292,359","","lnlssale","206,530,558","","lnlssale","13,761,801",
+"50","Unused loan commitments","","ucln","9,042,033,387","","ucln","8,405,244,558","","ucln","636,788,829",
+"51","Tier 1 (core) risk-based capital","","rbct1j","2,027,503,868","","rbct1j","1,884,078,045","","rbct1j","143,425,823",
+"52","Tier 2 risk-based capital","","rbct2","173,990,788","","rbct2","168,824,908","","rbct2","5,165,880",
+"53","Total unused commitments","","uc","9,042,033,512","","uc","8,405,244,683","","uc","636,788,829",
+"54","Derivatives","","obsdir","179,313,800,931","","obsdir","179,204,866,078","","obsdir","108,934,853",
+" ","Total assets and liabilities in foreign offices","",""," ","",""," ","",""," ",
+" ","Restructured Loans and leases","",""," ","",""," ","",""," ",
+" ","Past due and nonaccrual assets","",""," ","",""," ","",""," ",
+" ","Fiduciary and related services","",""," ","",""," ","",""," ",
+" ","Carrying amount of assets covered by FDIC loss-share agreements","",""," ","",""," ","",""," ",
+"*Note: For institutions that have adopted CECL Methodology (ASU 2016-13), securities are reported net of allowances for credit losses. ** Note : For institutions that have adopted CECL methodology (ASU 2016-13),  this item represents the allowance for credit losses on loans and leases held for investment and allocated transfer risk."
+
+"Key for Column Selections"
+
+"Column 1 Selections"
+"Standard Peer Group: All Institutions - National"
+"as of 12/31/2021"
+
+"Column 2 Selections"
+"Standard Peer Group: All Commercial Banks - National"
+"as of 12/31/2021"
+
+"Column 3 Selections"
+"Standard Peer Group: All Savings Institutions - National"
+"as of 12/31/2021"
+
